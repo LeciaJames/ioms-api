@@ -34,3 +34,15 @@ P:\Azure\IOMS\ioms\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
 P:\Azure\IOMS\ioms\Domain\obj\Debug\net5.0\Domain.dll
 P:\Azure\IOMS\ioms\Domain\obj\Debug\net5.0\ref\Domain.dll
 P:\Azure\IOMS\ioms\Domain\obj\Debug\net5.0\Domain.pdb
+D:\Programacao\ioms-api\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\Programacao\ioms-api\Domain\bin\Debug\net5.0\Domain.dll
+D:\Programacao\ioms-api\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\Programacao\ioms-api\Domain\bin\Debug\net5.0\Domain.pdb
+D:\Programacao\ioms-api\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\Programacao\ioms-api\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacao\ioms-api\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\Programacao\ioms-api\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\Programacao\ioms-api\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\Programacao\ioms-api\Domain\obj\Debug\net5.0\Domain.dll
+D:\Programacao\ioms-api\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\Programacao\ioms-api\Domain\obj\Debug\net5.0\Domain.pdb
